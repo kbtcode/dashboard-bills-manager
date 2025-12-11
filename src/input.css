@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+
+
+@font-face {
+    font-family: "Manrope bold";
+    src: url("/fonts/static/Manrope-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Manrope regular";
+    src: url("/fonts/static/Manrope-Regular.ttf");
+}
+
+
+@theme{
+
+--font-ManropeBold: "Manrope bold";
+--font-ManropeRegular: "Manrope regular"
+
+
+}
+
