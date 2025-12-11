@@ -10,9 +10,9 @@
 <ul>
 
 
-<li>costumize design with tailwind css✨</li>
-<li>resopnsive design for mobiles and tablets 📱</li>
-<li>using grid box for cards </li>
+<li>✨ customize design: design with tailwind css</li>
+<li>📱 resopnsive design: for mobiles and tablets </li>
+<li>🎴 grid box: using grid box for cards </li>
   
 </ul>
 
