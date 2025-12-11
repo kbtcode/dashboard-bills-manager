@@ -2,7 +2,7 @@
 
 <br />
 
-<h4><strong>some important features 🚀:</strong><h4>
+<h3><strong>🚀 some important features :</strong><h3>
 
 <br />
 
